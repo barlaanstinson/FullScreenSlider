@@ -1,0 +1,26 @@
+{
+"name": "fullscreenslider-barlaanstinson",
+"version": "1.0.0",
+"description": "This is a simple JavaScript implementation of a full screen slider. It creates a container with multiple slides, each occupying the entire viewport. Users can scroll horizontally to navigate between slides.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/barlaanstinson/FullScreenSlider.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "barlaanstinson",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
